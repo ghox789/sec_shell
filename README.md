@@ -30,8 +30,7 @@ This script is designed to apply a set of essential security best practices to a
 You can download and run the script with a single command. Execute it as the **root** user or with `sudo`.
 
 ```bash
-curl -O https://path/to/your/secshell.sh
-sudo bash secshell.sh
+curl -O https://github.com/ghox789/sec_shell/blob/main/secshell.sh
 ---
 ##⚠️ Important Post-Run Actions
 1After the script completes, you must take the following steps:
@@ -86,8 +85,7 @@ This script is designed to apply a set of essential security best practices to a
 You can download and run the script with a single command. Execute it as the **root** user or with `sudo`.
 
 ```bash
-curl -O https://path/to/your/secshell.sh
-sudo bash secshell.sh
+curl -O https://github.com/ghox789/sec_shell/blob/main/secshell.sh
 ⚠️ Important Post-Run Actions
 After the script completes, you must take the following steps:
 
